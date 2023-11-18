@@ -1,0 +1,8 @@
+¿El resultado fue mejor o peor?
+
+El resultado no mejoró al haber realizado algunos ajustes a los datos, limitando las columnas como de "median_house_value", "housing_median_age", "latitude" y "longitude", o incluso eliminando algunas de estas, tambien al aplicar escala a los datos.
+El resultado en todos los casos fue peor, no hubieron variaciones al hacer los cambios en el dataframe.
+
+¿Por qué crees que es así?
+
+Por las tecnicas de entrenamiento o tratamiento de datos aplicada, si queremos un buen resultado en cuanto al "score" o mas bien, que haya predicciones certeras depende mucho de la calidad de las caracteristicas que usemos, no tanto de la cantidad.
